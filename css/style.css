@@ -51,6 +51,7 @@ background-color: #4a4f56;
 .check-with-label:checked + .label-for-check {
   font-weight: bold;
   font-style: underline;
+  text-decoration: line-through;
 }
 
 
